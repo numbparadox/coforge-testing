@@ -1,2 +1,6 @@
 I am the slave
+<<<<<<< HEAD
 I am king
+=======
+I am a master
+>>>>>>> login
